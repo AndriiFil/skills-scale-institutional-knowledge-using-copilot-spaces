@@ -136,5 +136,5 @@ These processes are living documents designed to evolve with the team's needs an
 
 ---
 
-**Last Updated**: 2026  
+**Last Updated**: 2026
 **Maintained By**: OctoAcme Project Management Community
