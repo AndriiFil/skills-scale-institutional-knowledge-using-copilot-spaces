@@ -26,3 +26,5 @@ Quality assurance and operational reliability are built into delivery and releas
 - [OctoAcme Release and Deployment](./octoacme-release-and-deployment.md)
 - [OctoAcme Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme Role Accountability Matrix](./octoacme-role-accountability-matrix.md)
+- [OctoAcme Cross-Functional Handoffs Checklist](./octoacme-cross-functional-handoffs-checklist.md)
